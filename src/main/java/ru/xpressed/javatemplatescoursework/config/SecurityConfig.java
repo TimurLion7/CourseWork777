@@ -1,4 +1,4 @@
-package ru.xpressed.javatemplatecoursework.config;
+package ru.xpressed.javatemplatescoursework.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -12,8 +12,8 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.provisioning.InMemoryUserDetailsManager;
-import ru.xpressed.javatemplatecoursework.repository.CustomerRepository;
-import ru.xpressed.javatemplatecoursework.entity.Customer;
+import ru.xpressed.javatemplatescoursework.entity.Customer;
+import ru.xpressed.javatemplatescoursework.repository.CustomerRepository;
 
 import java.util.List;
 

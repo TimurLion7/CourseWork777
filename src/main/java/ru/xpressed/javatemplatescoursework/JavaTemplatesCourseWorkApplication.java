@@ -1,5 +1,4 @@
-package ru.xpressed.javatemplatecoursework;
-
+package ru.xpressed.javatemplatescoursework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,3 +11,4 @@ public class JavaTemplatesCourseWorkApplication {
     }
 
 }
+

@@ -1,4 +1,4 @@
-package ru.xpressed.javatemplatecoursework.controller;
+package ru.xpressed.javatemplatescoursework.controller;
 
 import org.springframework.boot.autoconfigure.web.servlet.error.AbstractErrorController;
 import org.springframework.boot.web.servlet.error.ErrorAttributes;

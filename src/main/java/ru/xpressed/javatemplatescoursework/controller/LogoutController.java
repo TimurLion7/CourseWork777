@@ -1,4 +1,4 @@
-package ru.xpressed.javatemplatecoursework.controller;
+package ru.xpressed.javatemplatescoursework.controller;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

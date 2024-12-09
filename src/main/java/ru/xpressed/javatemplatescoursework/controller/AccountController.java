@@ -1,14 +1,14 @@
-package ru.xpressed.javatemplatecoursework.controller;
+package ru.xpressed.javatemplatescoursework.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
-import ru.xpressed.javatemplatecoursework.entity.Customer;
-import ru.xpressed.javatemplatecoursework.entity.Order;
-import ru.xpressed.javatemplatecoursework.repository.CustomerRepository;
-import ru.xpressed.javatemplatecoursework.repository.OrderRepository;
+import ru.xpressed.javatemplatescoursework.entity.Customer;
+import ru.xpressed.javatemplatescoursework.entity.Order;
+import ru.xpressed.javatemplatescoursework.repository.CustomerRepository;
+import ru.xpressed.javatemplatescoursework.repository.OrderRepository;
 
 import javax.servlet.http.HttpServletRequest;
 import java.text.SimpleDateFormat;

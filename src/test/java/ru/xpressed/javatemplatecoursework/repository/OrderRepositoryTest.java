@@ -5,7 +5,8 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import ru.xpressed.javatemplatecoursework.entity.Order;
+import ru.xpressed.javatemplatescoursework.entity.Order;
+import ru.xpressed.javatemplatescoursework.repository.OrderRepository;
 
 import javax.transaction.Transactional;
 

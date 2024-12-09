@@ -1,4 +1,4 @@
-package ru.xpressed.javatemplatecoursework.entity;
+package ru.xpressed.javatemplatescoursework.entity;
 
 import lombok.Getter;
 import lombok.Setter;
